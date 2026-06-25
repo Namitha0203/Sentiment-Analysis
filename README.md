@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis from Text Feedback
+# Sentiment Analysis 
 
 ### Objective
 Develop machine learning models to classify emotions in text samples.
